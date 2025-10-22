@@ -20,8 +20,6 @@ _(Replace this link with your GitHub Pages URL once deployed)_
   - "What’s a good edible for sleep?"
   - "Show me hybrid strains under $40."
 
-You can customize the bot on [Chatbase.co](https://www.chatbase.co/) with your own data or integrate real dispensary menus later.
-
 ---
 
 ## 🛠 Tech Stack
