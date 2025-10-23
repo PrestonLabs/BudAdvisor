@@ -8,10 +8,7 @@ This project contains a live demo page using Chatbase, designed for testing, inv
 
 ## 🚀 Live Demo
 
-👉 [View the demo here][(https://yourusername.github.io/budadvisor-demo/)](https://prestonlabs.github.io/BudAdvisor/)  
-_(Replace this link with your GitHub Pages URL once deployed)_
-
----
+👉[[ [View the demo here](https://prestonlabs.github.io/BudAdvisor/)
 
 ## 📄 How It Works
 
